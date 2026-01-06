@@ -12,3 +12,4 @@ DESCRIPTION:
 Internship Task 1: Development environment setup using Python, web tools, and GitHub.
 
 
+<img width="676" height="65" alt="Image" src="https://github.com/user-attachments/assets/74e47c8b-27a6-4ef6-849f-5c1901e60437" />
